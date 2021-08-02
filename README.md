@@ -5,6 +5,8 @@
 O desafio consiste em desenvolver um bloco de produto seguindo o layout proposto.
 https://drive.google.com/file/d/1eeRLVbcFLYn5LVIe0xSFY6SaNBxT_QY2/view
 
+Link no Heroku: https://product-castle.herokuapp.com/ 
+
 #### Tecnologias Utilizadas:
 - JavaScript
 - React,
