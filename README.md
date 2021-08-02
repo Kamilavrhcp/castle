@@ -15,7 +15,7 @@ Link no Heroku: https://product-castle.herokuapp.com/
 - GIMB,
 - esLint
 
-### Problemas encontrados:
+#### Problemas encontrados:
 - O não alinhamento do "símbolo" prime com o preço,
 - O botão não ser idêntico ao modelo,  
 - A ausência de pequenos commits.
